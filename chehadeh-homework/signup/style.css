@@ -1,0 +1,104 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(41, 41, 241);
+  height: 600px;
+}
+.container{
+  display: flex;
+}
+
+.left{
+  background-color: rgb(245, 180, 59);
+  border-radius: 10px 0 0 10px ;
+}
+
+.right{
+  background-color: white;
+  border-radius: 0 10px 10px 0;
+}
+
+h2{
+  margin: 40px 120px 40px 40px;
+  color: white;
+}
+
+h3{
+  margin: 40px 120px 40px 40px;
+}
+.fb{
+  margin-left: 40px;
+  margin-bottom: 20px;
+  padding: 10px 0;
+  width: 270px;
+  border-style: none;
+  border-radius: 5px;
+  background-color: rgb(4, 4, 180);
+  color: white;
+}
+
+.tw{
+  margin-left: 40px;
+  margin-bottom: 20px;
+  padding: 10px 0;
+  width: 270px;
+  border-style: none;
+  border-radius: 5px;
+  background-color: rgb(49, 137, 253);
+  color: white;
+}
+
+.go{
+  margin-left: 40px;
+  margin-bottom: 20px;
+  padding: 10px 0;
+  width: 270px;
+  border-style: none;
+  border-radius: 5px;
+  background-color: rgb(204, 59, 59);
+  color: white;
+}
+
+.be{
+  margin-left: 40px;
+  margin-bottom: 40px;
+  padding: 10px 0;
+  width: 270px;
+  border-style: none;
+  border-radius: 5px;
+  background-color: rgb(49, 137, 253);
+  color: white;
+}
+
+.user{
+  margin-left: 40px;
+  margin-bottom: 20px;
+  padding: 10px 5px;
+  width: 270px;
+}
+
+.email{
+  margin-left: 40px;
+  margin-bottom: 20px;
+  padding: 10px 5px;
+  width: 270px;
+}
+
+.pass{
+  margin-left: 40px;
+  margin-bottom: 20px;
+  padding: 10px 5px;
+  width: 270px;
+}
+
+.signup{
+  margin-left: 40px;
+  margin-bottom: 20px;
+  padding: 10px 0;
+  width: 270px;
+  border-style: none;
+  border-radius: 5px;
+  background-color: rgb(49, 253, 66);
+  color: white;
+}
